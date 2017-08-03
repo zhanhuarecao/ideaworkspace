@@ -8,10 +8,5 @@
     <a href="getAllEmps">Get getAllEmps</a>
     <a href="insertEmp">Insert Employee</a>
     <a href="export">Export</a>
-    <br><a href="#">!!!!!</a>
-    <a href="export">!!!!!</a>
-    <a href="export">Export</a>
-    <a href="export">Export</a>
-
 </body>
 </html>
